@@ -2,7 +2,7 @@
 Lähteet:
 
 
-Chatgpt /n
+Chatgpt /n/n
 https://www.w3schools.com/
 
 api: https://www.thecocktaildb.com/api.php
